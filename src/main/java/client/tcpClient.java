@@ -33,7 +33,6 @@ public class tcpClient {
 
 //        String clientPhrase;
 //        String serverPhrase;
-//
 //        BufferedReader inputFromUser = new BufferedReader(new InputStreamReader(System.in));
 //        Socket clientSocket = new Socket("localhost", 5000);
 //        DataOutputStream outputToServer = new DataOutputStream(clientSocket.getOutputStream());
@@ -43,6 +42,5 @@ public class tcpClient {
 //        serverPhrase = inputFromServer.readLine();
 //        System.out.println("FROM SERVER: " + serverPhrase);
 //        clientSocket.close();
-
     }
 }
